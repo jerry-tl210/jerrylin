@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Che-Wei Lin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: UCSD Graduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: University of California, San Diego
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
