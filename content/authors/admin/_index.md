@@ -57,6 +57,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a UCSD alumni with a degree of Bachelor of Science in Data Science. I'm a well-rounded student with a strong science academic background seeking to pursue graduate studies. I'm seeking admission into a rigorous graduate school to best position myself to achieve my goals of becoming a prominent data scientist. 
+I'm an UCSD alumni with a degree of Bachelor of Science in Data Science. I'm planning to pursure graduate studies and enroll in Fall 2022. I'm seeking admission into a rigorous graduate school to best position myself to achieve my goals of becoming a prominent data scientist. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
