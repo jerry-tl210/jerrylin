@@ -43,9 +43,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jerry-lin-a197b6156/
- - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
