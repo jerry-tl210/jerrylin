@@ -18,8 +18,9 @@ bio: My research interests include machine learning, deep learning, and data min
 
 # Interests to show in About widget
 interests:
+- Data Mining
 - Machine Learning
-- Computer Vision
+- Deep Learning
 
 # Education to show in About widget
 education:
