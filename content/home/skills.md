@@ -33,13 +33,14 @@ feature:
   name: C
   description: 
 - description: 
-  icon: 'brands/icons8-html-5'
-  icon_pack: 
-  name: HTML
-- description: 
   icon: database
   icon_pack: fas
   name: SQL
+- icon: 'brands/icons8-html-5'
+  icon_pack: "custom"
+  name: HTML
+  description: 
+
 
  
 
