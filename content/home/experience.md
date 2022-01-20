@@ -57,7 +57,7 @@ experience:
   - title: Deep Learning Intern
     company: Industrial Technology Research Institute
     company_url: 'https://www.itri.org.tw/english/index.aspx'
-    company_logo: brain-logo
+    company_logo: ITRI-logo
     location: Hsinchu
     date_start: '2020-10-01'
     date_end: '2020-12-31'
@@ -66,7 +66,7 @@ experience:
   - title: Intern
     company: Institute of Information Science, Academia Sinica
     company_url: 'https://www.iis.sinica.edu.tw/en/index.html'
-    company_logo: brain-logo
+    company_logo: iislogo
     location: Taipei
     date_start: '2020-06-15'
     date_end: '2020-09-15'
