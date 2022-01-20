@@ -29,8 +29,8 @@ feature:
   icon_pack: fab
   name: R
 - description: 
-  icon: c
-  icon_pack: fab
+  icon: mywebsite/assets/media/icons/brands/icons8-c-programming.svg
+  icon_pack: 
   name: C
 
 
