@@ -27,8 +27,8 @@ experience:
     company_url: 'https://datascience.ucsd.edu/'
     company_logo: HDSI
     location: California
-    date_start: '2021-04'
-    date_end: '2021-08'
+    date_start: '04 2021'
+    date_end: '08 2021'
     description: |2-
         Responsibilities include:
         
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: vial
     location: California
-    date_start: '2020-10'
-    date_end: '2021-07'
+    date_start: '10 2020'
+    date_end: '07 2021'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
