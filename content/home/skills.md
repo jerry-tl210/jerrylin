@@ -17,17 +17,10 @@ subtitle: I am proficient in
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: 
-  icon: java
-  icon_pack: fab
-  name: Java
-- description: 
-  icon: r-project
-  icon_pack: fab
-  name: R
+  icon: database
+  icon_pack: fas
+  name: SQL
+
 
 
 
@@ -43,8 +36,20 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
+- icon: 'brands/icons8-java'
+  icon_pack: "custom"
+  name: Java
+  description: 
+- icon: 'brands/icons8-python'
+  icon_pack: "custom"
+  name: Python
+  description: 
+- icon: 'brands/icons8-r-project'
+  icon_pack: "custom"
+  name: R
+  description: 
 - icon: 'brands/icons8-c-programming'
   icon_pack: "custom"
   name: C
-  description: C
+  description: 
 ---
