@@ -27,8 +27,8 @@ experience:
     company_url: 'https://datascience.ucsd.edu/'
     company_logo: HDSI
     location: California
-    date_start: '2021-04-18'
-    date_end: '2021-08-01'
+    date_start: '2021-04'
+    date_end: '2021-08'
     description: |2-
         Responsibilities include:
         
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: ucsd-logo-svg-vector
     location: California
-    date_start: '2020-10-01'
-    date_end: '2021-07-01'
+    date_start: '2020-10'
+    date_end: '2021-07'
     description: Taught electronic engineering and researched semiconductor physics.
     
   - title: Instructional Assistant
@@ -50,8 +50,8 @@ experience:
     company_url: 'https://cogsci.ucsd.edu/'
     company_logo: brain-logo
     location: California
-    date_start: '2021-01-04'
-    date_end: '2021-03-20'
+    date_start: '2021-01'
+    date_end: '2021-03'
     description: Taught electronic engineering and researched semiconductor physics.
     
   - title: Deep Learning Intern
@@ -59,8 +59,8 @@ experience:
     company_url: 'https://www.itri.org.tw/english/index.aspx'
     company_logo: brain-logo
     location: Taipei
-    date_start: '2020-10-01'
-    date_end: '2020-12-31'
+    date_start: '2020-10'
+    date_end: '2020-12'
     description: Taught electronic engineering and researched semiconductor physics.
 
 
