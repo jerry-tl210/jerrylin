@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 06-01
+date_format: January/06
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,8 +27,8 @@ experience:
     company_url: 'https://datascience.ucsd.edu/'
     company_logo: HDSI
     location: California
-    date_start: '2021-04-18'
-    date_end: '2021-08-01'
+    date_start: 'April/2021'
+    date_end: '08/2021'
     description: |2-
         Responsibilities include:
         
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: ucsd-logo-svg-vector
     location: California
-    date_start: '2020-10-01'
-    date_end: '2021-07-01'
+    date_start: '10/20'
+    date_end: '07/21'
     description: Taught electronic engineering and researched semiconductor physics.
     
   - title: Instructional Assistant
