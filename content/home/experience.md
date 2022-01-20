@@ -27,8 +27,8 @@ experience:
     company_url: 'https://datascience.ucsd.edu/'
     company_logo: HDSI
     location: California
-    date_start: '2021-04-18'
-    date_end: '2021-08-01'
+    date_start: '2021-18-04'
+    date_end: '2021-01-08'
     description: |2-
         Responsibilities include:
         
@@ -41,8 +41,17 @@ experience:
     company_url: ''
     company_logo: ucsd-logo-svg-vector
     location: California
-    date_start: '2020-10-01'
-    date_end: '2021-07-01'
+    date_start: '2020-01-10'
+    date_end: '2021-01-07'
+    description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Instructional Assistant
+    company: Cognitive Science Department at UCSD
+    company_url: 'https://cogsci.ucsd.edu/'
+    company_logo: ucsd-logo-svg-vector
+    location: California
+    date_start: '2020-04-01'
+    date_end: '2021-20-03'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
