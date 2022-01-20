@@ -25,7 +25,7 @@ experience:
   - title: Student Researcher
     company: Halıcıoğlu Data Science Institute
     company_url: 'https://datascience.ucsd.edu/'
-    company_logo: 'HDSI'
+    company_logo: HDSI
     location: California
     date_start: '2021-01-01'
     date_end: ''
