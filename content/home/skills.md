@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
-subtitle:
+title: Programming Languages
+subtitle: I am proficient in 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -28,6 +28,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+I am advanced in 
 - description: 100%
   icon: chart-line
   icon_pack: fas
