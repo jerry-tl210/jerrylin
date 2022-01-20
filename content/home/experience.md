@@ -27,8 +27,8 @@ experience:
     company_url: 'https://datascience.ucsd.edu/'
     company_logo: HDSI
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2021-04'
+    date_end: '2021-08'
     description: |2-
         Responsibilities include:
         
@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Student Researcher
+    company: Data Mining Lab at UCSD
     company_url: ''
-    company_logo: org-x
+    company_logo: vial
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2020-10'
+    date_end: '2021-07'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
