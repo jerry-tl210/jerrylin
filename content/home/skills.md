@@ -28,6 +28,11 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description: 100%
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
+
 
 
 # Uncomment to use emoji icons.
