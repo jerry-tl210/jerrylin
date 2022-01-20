@@ -16,23 +16,23 @@ subtitle: I am proficient in
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: proficient
+- description: 
   icon: python
   icon_pack: fab
   name: Python
-- description: proficient
+- description: 
   icon: java
   icon_pack: fab
   name: Java
-- description: proficient
+- description: 
   icon: r-project
   icon_pack: fab
   name: R
-I am advanced in 
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+- description: 
+  icon: c
+  icon_pack: fab
+  name: C
+
 
 
 
