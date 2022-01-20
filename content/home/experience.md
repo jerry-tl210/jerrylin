@@ -48,11 +48,21 @@ experience:
   - title: Instructional Assistant
     company: Cognitive Science Department at UCSD
     company_url: 'https://cogsci.ucsd.edu/'
-    company_logo: ucsd-logo-svg-vector
+    company_logo: brain-logo
     location: California
     date_start: '2020-04-01'
     date_end: '2021-20-03'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Deep Learning Intern
+    company: Industrial Technology Research Institute
+    company_url: 'https://www.itri.org.tw/english/index.aspx'
+    company_logo: brain-logo
+    location: Taipei
+    date_start: '2020-04-01'
+    date_end: '2021-20-03'
+    description: Taught electronic engineering and researched semiconductor physics.
+
 
 design:
   columns: '2'
