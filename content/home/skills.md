@@ -28,10 +28,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 
-  icon: mywebsite/assets/media/icons/brands/icons8-c-programming
-  icon_pack: 
-  name: C
+
 
 
 
@@ -46,8 +43,8 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+- icon: assets/media/icons/brands/icons8-c-programming
+  icon_pack: "custom"
+  name: C
+  description: C
 ---
