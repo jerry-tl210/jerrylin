@@ -59,8 +59,8 @@ experience:
     company_url: 'https://www.itri.org.tw/english/index.aspx'
     company_logo: brain-logo
     location: Taipei
-    date_start: ''
-    date_end: ''
+    date_start: '2020-10-01'
+    date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 
