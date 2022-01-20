@@ -39,7 +39,7 @@ experience:
   - title: Student Researcher
     company: Data Mining Lab at UCSD
     company_url: ''
-    company_logo: vial
+    company_logo: ucsd-logo-svg-vector
     location: California
     date_start: '2020-10-01'
     date_end: '2021-07-01'
