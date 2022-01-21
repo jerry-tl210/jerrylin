@@ -52,7 +52,7 @@ main_menu:
 
 # Localization
 
-date_format: '2006-12-01'
+date_format: 
 time_format: '3:04 PM'
 address_format: en-us
 
