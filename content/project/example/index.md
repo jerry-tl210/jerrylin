@@ -3,6 +3,7 @@ title: Face Mask Detection with Explainable Artificial Intelligence
 summary: A project consists of implementation of ResNet-50 and GradCAM
 tags:
 - Deep Learning
+date_format: 
 date: "2021-03-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
