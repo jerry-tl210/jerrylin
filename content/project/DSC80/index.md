@@ -1,6 +1,6 @@
 ---
 title: Data Analysis Snapchat Political Ads
-summary: A project consists of implementation of ResNet-50 and GradCAM
+summary: 
 tags:
 - Other
 date: "2019-12-15T00:00:00Z"
