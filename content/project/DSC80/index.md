@@ -2,14 +2,14 @@
 title: Data Analysis Snapchat Political Ads
 summary: A project consists of implementation of ResNet-50 and GradCAM
 tags:
-- Deep Learning
-date: "2021-03-15T00:00:00Z"
+- Other
+date: "2019-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image: 
-  caption: A ResNet-50 structure
+  caption: Snapchat avatars
   focal_point: Smart
 
 #links:
