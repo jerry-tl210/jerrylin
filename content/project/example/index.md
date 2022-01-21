@@ -17,10 +17,10 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-#url_code: ""
+#url_code: "https://github.com/gatran/DSC180B-Face-Mask-Detection"
 #url_pdf: "example.pdf"
 #url_slides: ""
-#url_video: ""
+#url_video: "https://www.youtube.com/watch?v=2TLcEPZVZuA"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
