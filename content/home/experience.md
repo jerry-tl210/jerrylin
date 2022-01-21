@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Work under the guidance of Dr. Pazzani on application of Explainable AI (XAI) in ophthalmology.
+        * Implement XAI methods to come up with explanations of ResNet-50's prediction of glaucoma from fundus image.
+        * Present the pros and cons of each XAI methods in front of opthalmologists.
         
   - title: Student Researcher
     company: Data Mining Lab at UCSD
@@ -43,7 +43,11 @@ experience:
     location: California
     date_start: '2020-10-01'
     date_end: '2021-07-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Contribute as a student researcher on a team competing in the National Science Foundation (NSF) Convergence Accelerator program.
+        * Scrape 6000+ models and datasets from www.paperswithcode.com and provide them to graduate student researcher for use.
     
   - title: Instructional Assistant
     company: Cognitive Science Department at UCSD
@@ -52,7 +56,12 @@ experience:
     location: California
     date_start: '2021-01-04'
     date_end: '2021-03-20'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Review topics such as probability, linear regression, and PCA in class
+        * Host weekly office hours and helping students on the assignments.
+        * Assist Professor with grading on assignments and projects.
     
   - title: Deep Learning Intern
     company: Industrial Technology Research Institute
@@ -61,7 +70,7 @@ experience:
     location: Hsinchu
     date_start: '2020-10-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Implement ResNet-50 that predicts stock trend based on technical indicators.
   
   - title: Intern
     company: Institute of Information Science, Academia Sinica
@@ -70,7 +79,12 @@ experience:
     location: Taipei
     date_start: '2020-06-15'
     date_end: '2020-09-15'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Propose a novel approach of selecting supporting evidences from a given document that substantiates the answers to a given question.
+        * Publish a paper as first-author in International Conference on Technologies and Applications of Artificial Intelligence Domestic Track (TAAI)
+        * Win 3rd place at Best Paper Award out of 38 accepted papers.
  
 
 
