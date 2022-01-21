@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Face Mask Detection with Explainable Artificial Intelligence
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
