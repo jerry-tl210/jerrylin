@@ -20,24 +20,20 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: linjerry883@gmail.com
+email: linjerry773@gmail.com
 contact_links:
-  - icon: twitter
+  - icon: facebook
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: Message Me
+    link: 'https://www.facebook.com/jerry.lin.210/'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    link: 'live:940184'
+  - icon: instagram
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Message Me
+    link: 'https://www.instagram.com/jerry_tl210/'
 
 # Site header
 
