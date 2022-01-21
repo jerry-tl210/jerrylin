@@ -1,4 +1,3 @@
-
 ---
 title: Predicting House Prices in South Korea
 summary: Implementation of machine learning algorithms in predictive analytics.
@@ -10,7 +9,7 @@ date: "2020-12-10T00:00:00Z"
 external_link: ""
 
 image: 
-  caption: A ResNet-50 structure
+  caption: A scatterplot with house size on x-axis and price on y-axis
   focal_point: Smart
 
 #links:
