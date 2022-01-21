@@ -1,6 +1,6 @@
 ---
-title: 120 years of Olympic history athletes and results
-summary: Management and analysis of database that contains 120 years of olympic game data
+title: 120 years of Olympic history: athletes and results
+summary: Management and analysis of database that contains 120 years of olympic games\' data
 tags:
 - Deep Learning
 date: "2020-03-15T00:00:00Z"
