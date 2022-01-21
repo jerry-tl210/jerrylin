@@ -18,7 +18,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #url_code: ""
-#url_pdf: "DSC100/Olympic_Database.pdf"
+#url_pdf: "Olympic_Database.pdf"
 #url_slides: ""
 #url_video: ""
 
