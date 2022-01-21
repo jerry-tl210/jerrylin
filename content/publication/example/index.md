@@ -34,7 +34,7 @@ publication_short: In *TAAI*
 abstract: This paper proposes a novel approach to identify the supporting evidence (SE) sentence (within a related document) that has low lexicon recall rate with the given question passage. Previous approaches such as BERT mainly identify SE sentences via implic- itly measuring the text similarity between the question and each sentence in the related document. However, some SE sentences possess low recall rates because they have low word-overlapping with the question text. This situation frequently occurs when the complete information crosses more than one sentence. We thus propose a novel model that incorporates cross-sentence coupling between adjacent sentences. The experiments conducted on a Chinese QA data-set show the proposed model has made 2.1% EM improvement comparing with BERT baseline.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'At the TAAI Award Ceremony'
   focal_point: ""
   preview_only: false
 
