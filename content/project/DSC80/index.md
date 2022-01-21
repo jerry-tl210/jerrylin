@@ -1,5 +1,5 @@
 ---
-title: Face Mask Detection with Explainable Artificial Intelligence
+title: Data Analysis Snapchat Political Ads
 summary: A project consists of implementation of ResNet-50 and GradCAM
 tags:
 - Deep Learning
