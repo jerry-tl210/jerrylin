@@ -2,7 +2,7 @@
 title: Predicting House Prices in South Korea
 summary: Implementation of machine learning algorithms in predictive analytics.
 tags:
-- other
+- Other
 date: "2020-12-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
