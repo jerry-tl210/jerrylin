@@ -30,3 +30,9 @@ url_video: ""
 #slides: example
 ---
 
+In this project, we try to reliably predict the housing price based on the information of the house and its neighborhood as well as what factors
+has the more substantial influences on the decision of the price. To do so we would perform a linear regression on the dataset. We would designate
+the feature SalePrice to be our target variable and all the features that describe the house sold (which is all the rest of the features save for YrSold
+and MonthSold ). This is a regressional analysis because the target variable is, for all intents and purposes, continuous, and weights of a linear
+regression model shines light on the importance of the features.
+
