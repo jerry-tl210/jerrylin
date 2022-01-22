@@ -29,6 +29,6 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-
+In this project, we transformed data from https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results?select=noc_regions.csv into multiple databases. We first clean and modify features in
  
 
